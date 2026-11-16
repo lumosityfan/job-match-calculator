@@ -46,7 +46,7 @@ The same idea runs in production as an AWS Lambda on my [resume site](https://ww
 
 ## Roadmap
 
-- [ ] Add a `requirements.txt`
+- [x] Add a `requirements.txt`
 - [ ] Add tests for text extraction and response handling
 - [ ] Support job-posting URLs in this standalone version
 - [ ] Add a `LICENSE`
