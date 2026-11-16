@@ -25,7 +25,7 @@ Python · Flask · OpenAI API (`gpt-4o-mini`) · pypdf · docx2txt · vanilla Ja
 git clone https://github.com/lumosityfan/job-match-calculator.git
 cd job-match-calculator
 python -m venv .venv && source .venv/bin/activate
-pip install flask python-dotenv openai pypdf docx2txt
+pip install -r requirements.txt
 
 echo "OPENAI_API_KEY=your-key-here" > .env
 python app.py
